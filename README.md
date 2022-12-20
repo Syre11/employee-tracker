@@ -2,12 +2,7 @@
 
 ## Description
 
-<!-- Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn? -->
+This application was built to track a companies employees. It tracks departments, roles (job title, salary), and employees. Connecting them using the mysql node add on. You can add, update, delete and view each category. It was built using javascript with the express framework, node, mysql, and console.table. 
 
 ## Table of Contents
 
@@ -18,8 +13,9 @@
 
 ## Installation
 
-<!-- Explain needing to input user and password into .env
-  Put instructions on how to start/proceed through app -->
+To run it locally, you will need to run the following to install the needed package dependencies:
+
+    npm i
 
 ## Usage
 
@@ -31,6 +27,7 @@
 - NodeJS: https://nodejs.org/en/
 - Express.js: https://www.npmjs.com/package/express
 - MySQL: https://www.mysql.com/
+- console.table: https://www.npmjs.com/package/console.table
 
 ## License
 
