@@ -17,10 +17,22 @@ To run it locally, you will need to run the following to install the needed pack
 
     npm i
 
+To begin the application you will need to run the following to set up the database:
+
+    mysql -u [user] -p
+
+Enter your password and then run:
+
+    source db/schema.sql;
+    source db/seeds.sql;
+
+From here you will be prompted by the main menu to use the app as intended.
+
 ## Usage
 
-<!-- Put image link to video -->
-![alt text](assets/images/screenshot.png)
+Click on image to open link.
+
+[![Walkthrough Image Link](/assets/Screenshot%202022-12-20%20120606.png)](https://watch.screencastify.com/v/OpqoGKktUvqsZ2XM7VmV)
 
 ## Credits
 
