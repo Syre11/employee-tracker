@@ -32,7 +32,7 @@ From here you will be prompted by the main menu to use the app as intended.
 
 Click on image to open link.
 
-[![Walkthrough Image Link](/assets/Screenshot%202022-12-20%20120606.png)](https://watch.screencastify.com/v/OpqoGKktUvqsZ2XM7VmV)
+[![Walkthrough Image Link](/assets/Screenshot%202022-12-20%20120606.png)](https://drive.google.com/file/d/1Xp7UMTUv6mRtt9RJLkyf5aokNxbe8afU/view)
 
 ## Credits
 
